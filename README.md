@@ -1,9 +1,9 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
+╔═════════════════════════════════════════════════════════════╗
 ║   ATOMIC DREAM LABS  ·  BEYOND-REPAIR                        ║
-╚══════════════════════════════════════════════════════════════╝
+╚═════════════════════════════════════════════════════════════╝
 ```
 
 # Fantom Smart Contracts
@@ -15,7 +15,7 @@
 [![Governance](https://img.shields.io/badge/ADL--Governance-7c3aed?style=for-the-badge&labelColor=0f0f23)](https://github.com/beyond-repair/ADL-Governance)
 
 ```
-LIFECYCLE   ARCHIVE QUEUE
+LIFECYCLE   ARCHIVED
 CLAIM       0
 NOT CLAIMED profit · live trading · product
 ```
@@ -23,11 +23,11 @@ NOT CLAIMED profit · live trading · product
 </div>
 
 ---
-> **ARCHIVE QUEUE.** Historical only. No profit, deployment, or product claim.
+> **ARCHIVED.** Historical only. See [ARCHIVED.md](ARCHIVED.md). No profit, deployment, or product claim.
 
 ## ▌ STATUS
 
-Archive-queue under [ADL-Governance](https://github.com/beyond-repair/ADL-Governance). Do not use for live trading, deployment, or as a product.
+**ARCHIVED** under [ADL-Governance](https://github.com/beyond-repair/ADL-Governance). Do not use for live trading, deployment, or as a product. Incomplete sketches only.
 
 ---
 
